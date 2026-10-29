@@ -13,4 +13,5 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://SEU-USUARIO.github.io/pweb-ts-estruturas/
+https://github.com/Pedropedropedr/pweb-ts-estruturas/tree/main
+
